@@ -3,6 +3,8 @@ Clase-PHP-Encriptacion
 
 Clase PHP que contiene funciones para la encriptación y desencriptación de strings.
 
+Podrás encontrar más información en: http://angelbelchite.esy.es/programacion/clase-php-encriptar-desencriptar-cadenas/
+
 Modo de Uso
 ===========
 
